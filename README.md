@@ -6,3 +6,7 @@ Built in C#
 Tested on Windows 10
 
 Takes IOS backups produced by Itunes and unpacks the obfusicated SQLite database to a chosen location
+
+Notes:
+
+Will only work on backups without encryption. 
